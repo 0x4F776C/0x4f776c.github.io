@@ -1,7 +1,6 @@
 ---
-title: Index
+title: Safari
 draft: false
 tags:
   -
 ---
-Test **index** page
