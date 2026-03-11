@@ -22,8 +22,8 @@ https://www.offsec.com/courses/pen-300/
 - [x] Advanced Antivirus Evasion
 - [x] Application Whitelisting
 - [ ] Bypassing Network Filters (archived)
-- [ ] Linux Post-Exploitation
-- [ ] Kiosk Breakouts
+- [x] Linux Post-Exploitation
+- [x] Kiosk Breakouts
 - [ ] Windows Credentials
 - [ ] Windows Lateral Movement
 - [ ] Linux Lateral Movement
