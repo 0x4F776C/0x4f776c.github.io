@@ -1,4 +1,10 @@
-![[Pasted image 20260311181106.png | center | 400]]
+---
+title: OSCP
+draft: false
+tags:
+  - OffSec
+---
+![[Pasted image 20260311181106.png | 400]]
 
 https://www.offsec.com/courses/pen-200/
 

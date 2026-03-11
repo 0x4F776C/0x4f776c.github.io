@@ -1,4 +1,10 @@
-![[Pasted image 20260311180039.png | center | 200]]
+---
+title: PMRP
+draft: false
+tags:
+  - TCM
+---
+![[Pasted image 20260311180039.png | 200]]
 
 https://certifications.tcm-sec.com/pmrp/
 # Syllabus

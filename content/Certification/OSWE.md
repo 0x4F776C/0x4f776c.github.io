@@ -1,4 +1,10 @@
-![[Pasted image 20260311180155.png | center | 400]]
+---
+title: OSWE
+draft: false
+tags:
+  - OffSec
+---
+![[Pasted image 20260311180155.png | 400]]
 
 https://www.offsec.com/courses/web-300/
 # Syllabus
