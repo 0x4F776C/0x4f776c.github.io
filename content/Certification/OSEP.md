@@ -24,13 +24,13 @@ https://www.offsec.com/courses/pen-300/
 - [ ] Bypassing Network Filters (archived)
 - [x] Linux Post-Exploitation
 - [x] Kiosk Breakouts
-- [ ] Windows Credentials
-- [ ] Windows Lateral Movement
-- [ ] Linux Lateral Movement
+- [x] Windows Credentials
+- [x] Windows Lateral Movement
+- [x] Linux Lateral Movement
 - [ ] Microsoft SQL Attacks (archived)
-- [ ] Microsoft SQL Attacks
-- [ ] Active Directory Exploitation
-- [ ] Attacking Active Directory Certificate Services
+- [x] Microsoft SQL Attacks
+- [x] Active Directory Exploitation
+- [x] Attacking Active Directory Certificate Services
 - [ ] Attacking Active Directory
 - [ ] Combining the Pieces
 - [ ] Trying Harder: The Labs
