@@ -8,7 +8,9 @@ tags:
   <p style="margin: 0;">$ whoami</p>
   <p style="margin: 0; color: #58a6ff;">Lee Chun Hao</p>
   <p style="margin: 10px 0 0 0;">$ cat todo.txt</p>
-  <p style="margin: 0; color: #58a6ff;"><span>[+] OSEP by 12 May 2026</span></p>
+  <p style="margin: 0; color: #58a6ff;"><span>[+] OSED</span></p>
+  <p style="margin: 0; color: #58a6ff;"><span>[+] CRTO I</span></p>
+  <p style="margin: 0; color: #58a6ff;"><span>[+] CRTO II</span></p>
   <p style="margin: 10px 0 0 0;"><span>$</span> <span class="cursor" style="animation: pulse 1s infinite;">|</span></p>
 </div>
 
