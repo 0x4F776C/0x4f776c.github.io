@@ -35,7 +35,7 @@ tags:
 
 ## Certifications & Achievements
 
-* **OffSec:** Offensive Security Web Expert (OSWE) and Offensive Security Certified Professional (OSCP/OSCP+).
+* **OffSec:** Offensive Security Experienced Pentester (OSEP), Offensive Security Web Expert (OSWE) and Offensive Security Certified Professional (OSCP/OSCP+).
 * **TCM Security:** Practical Malware Research Professional (PMRP).
 * **Malware Academy:** Malware Development Course, Ransomware Internals, and Offensive Phishing Operations.
 * **CyberWarFareLabs:** Certified Process Injection Analyst and Red Team CredsOps Infiltrator.
